@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://naive/./src/views/404.vue"],"names":["script","render"],"mappings":"oLACA,MAAMA,EAAS,GACfA,EAAOC,OAASA,EAEhB","file":"js/624.b087d166.js","sourcesContent":["import { render } from \"./404.vue?vue&type=template&id=7f1a4799\"\nconst script = {}\nscript.render = render\n\nexport default script"],"sourceRoot":""}
