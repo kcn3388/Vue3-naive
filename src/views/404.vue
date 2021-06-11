@@ -16,7 +16,7 @@ import { defineComponent } from "vue";
 import { useMessage } from 'naive-ui'
 
 export default defineComponent({
-  setup() {
+  setup () {
     const message = useMessage();
     return {
       handlePositiveClick () {
