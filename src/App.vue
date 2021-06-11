@@ -41,7 +41,6 @@ export default defineComponent({
   },
   setup() {
     var url = window.location.href.split("?")[1];
-    console.log(url);
     return {
       darkTheme,
       url

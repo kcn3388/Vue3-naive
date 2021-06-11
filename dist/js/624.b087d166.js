@@ -1,2 +1,0 @@
-(self["webpackChunknaive"]=self["webpackChunknaive"]||[]).push([[624],{4624:function(n,e,u){"use strict";function r(n,e){return" 404 "}u.r(e),u.d(e,{default:function(){return c}});const t={};t.render=r;var c=t}}]);
-//# sourceMappingURL=624.b087d166.js.map
