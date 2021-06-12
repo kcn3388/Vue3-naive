@@ -1997,8 +1997,8 @@
 
 "@vue/cli@^4.5.13":
   version "4.5.13"
-  resolved "https://registry.nlark.com/@vue/cli/download/@vue/cli-4.5.13.tgz?cache=0&sync_timestamp=1623217962813&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40vue%2Fcli%2Fdownload%2F%40vue%2Fcli-4.5.13.tgz#a17c009ca6efc6abb9990605a988f308e7e642d0"
-  integrity sha1-oXwAnKbvxqu5mQYFqYjzCOfmQtA=
+  resolved "http://mirrors.cloud.tencent.com/npm/@vue%2fcli/-/cli-4.5.13.tgz#a17c009ca6efc6abb9990605a988f308e7e642d0"
+  integrity sha512-KAU300YbT0/7zG472KzJgHKdFex4nr5Xoo80gQJwT+y7pkepMhTxjrmxrJ/XR8QirUvPnBiX5n6BX5FrlMuUGQ==
   dependencies:
     "@types/ejs" "^2.7.0"
     "@types/inquirer" "^6.5.0"
