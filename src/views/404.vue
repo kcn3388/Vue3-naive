@@ -20,10 +20,10 @@ export default defineComponent({
     const message = useMessage();
     return {
       handlePositiveClick () {
-        window.open("https://res.kcn3388.club/music.html", "_blank");
+        window.open("https://api.kcn3388.club/", "_blank");
       },
       handleNegativeClick () {
-        message.error('愿主赦免你的灵魂')
+        message.error('新的路灯挂件出现了')
       }
     }
   },

@@ -12,7 +12,7 @@ import { defineComponent } from "vue";
 export default defineComponent({
   setup() {
     function handleClick() {
-      window.open("https://res.kcn3388.club/music.html", "_blank");
+      window.open("https://api.kcn3388.club/", "_blank");
     }
     return {
       handleClick,

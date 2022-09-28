@@ -1,4 +1,7 @@
 <template>
+<head>
+    <title>TimeLine</title>
+</head>
   <n-timeline>
     <n-timeline-item content="建站时间线" />
     <n-timeline-item

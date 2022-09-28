@@ -39,7 +39,7 @@ export default defineComponent({
             content: "别傻了，你以为你真的有钱吗，还是听歌吧",
             positiveText: "嗯",
             onPositiveClick: () => {
-              window.open("https://res.kcn3388.club/music.html", "_blank");
+              window.open("https://api.kcn3388.club/", "_blank");
             },
           });
         } else {
@@ -48,7 +48,7 @@ export default defineComponent({
             content: "你也就只能听听歌了",
             positiveText: "嗯",
             onPositiveClick: () => {
-              window.open("https://res.kcn3388.club/music.html", "_blank");
+              window.open("https://api.kcn3388.club/", "_blank");
             },
           });
         }
