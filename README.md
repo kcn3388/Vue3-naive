@@ -1,28 +1,29 @@
-# naive
+<h1 align="center">Naive-UI: Error page</h1>
 
-## Introduce
+<div align="center">
 
-This is a personal customized error page for htm err codes. Using [naive-ui](https://github.com/TuSimple/naive-ui), powered by[Vue3](https://github.com/vuejs/vue-next).
+This is a personal customized error page for html error codes. Using [naive-ui](https://github.com/TuSimple/naive-ui), powered by [Vue3](https://github.com/vuejs/vue-next).
 
 [Vue3 Docs](https://v3.vuejs.org/)
 
 [naive-ui Docs](https://www.naiveui.com/en-US/dark)
 
-Examples: [404](https://res.kcn3388.club/?404) [403](https://res.kcn3388.club/?403) [500](https://res.kcn3388.club/?500) [503](https://res.kcn3388.club/?503)
+🇨🇳 **[中文文档](https://github.com/kcn3388/Vue3-naive/blob/main/README_CN.md)** | **[更变日志](https://github.com/kcn3388/Vue3-naive/blob/main/CHANGELOG_CN.md)**
 
 <details>
-<summary>Examples</summary>
+<summary>Previews</summary>
 
-![](./img/404.png)
+[![](./img/404.png)](https://res.kcn3388.club/?404)
 
-![](./img/403.png)
+[![](./img/403.png)](https://res.kcn3388.club/?403)
 
-![](./img/500.png)
+[![](./img/500.png)](https://res.kcn3388.club/?500)
 
-![](./img/503.png)
-
+[![](./img/503.png)](https://res.kcn3388.club/?503)
 
 </details>
+
+</div>
 
 ## Project setup
 ```
@@ -61,7 +62,7 @@ Personaly using Timeline and my favorite img for home page, you can modify ``App
 
 The button under message can be modified to adapt different functions.
 
-### 如何使用？
+### How to use?
 
 Using Apache as an example, find the followings in the config file, then uncomment necessary codes and add links for them.
 

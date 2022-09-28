@@ -1,6 +1,6 @@
-# naive
+<h1 align="center">Naive-UI: Error page</h1>
 
-## 介绍
+<div align="center">
 
 这是一个个人个性化网站错误页的小项目，使用[naive-ui](https://github.com/TuSimple/naive-ui)，由[Vue3](https://github.com/vuejs/vue-next)驱动。
 
@@ -8,21 +8,23 @@
 
 [naive-ui 中文文档](https://www.naiveui.com/zh-CN/dark)
 
-示例：[404](https://res.kcn3388.club/?404) [403](https://res.kcn3388.club/?403) [500](https://res.kcn3388.club/?500) [503](https://res.kcn3388.club/?503)
+🇺🇸 **[English Doc](https://github.com/kcn3388/Vue3-naive/blob/main/README.md)** |
+**[ChangeLog](https://github.com/kcn3388/Vue3-naive/blob/main/CHANGELOG.md)**
 
 <details>
-<summary>示例</summary>
+<summary>预览</summary>
 
-![](./img/404.png)
+[![](./img/404.png)](https://res.kcn3388.club/?404)
 
-![](./img/403.png)
+[![](./img/403.png)](https://res.kcn3388.club/?403)
 
-![](./img/500.png)
+[![](./img/500.png)](https://res.kcn3388.club/?500)
 
-![](./img/503.png)
-
+[![](./img/503.png)](https://res.kcn3388.club/?503)
 
 </details>
+
+</div>
 
 ## 初始化项目
 ```
